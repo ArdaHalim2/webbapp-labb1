@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Memento",
+    "year": 2000,
+    "genre": ["Mystery", "Thriller"],
+    "poster": "img/memento.jpg",
+    "description": "En man med korttidsminnesförlust försöker lösa sin frus mord med hjälp av anteckningar och tatueringar.",
+    "rating": 4.5,
+    "director": "Christopher Nolan",
+    "runtime": 113
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "poster": "img/dark-knight.jpg",
+    "description": "Batman möter Jokern i en intensiv kamp om Gotham Citys själ.",
+    "rating": 4.9,
+    "director": "Christopher Nolan",
+    "runtime": 152
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "year": 2010,
+    "genre": ["Sci‑Fi", "Thriller"],
+    "poster": "img/inception.jpg",
+    "description": "En skicklig tjuv som stjäl hemligheter genom att gå in i folks drömmar får en chans till återlösning om han kan utföra det omöjliga: inception.",
+    "rating": 4.8,
+    "director": "Christopher Nolan",
+    "runtime": 148
+  },
+  {
+    "id": 4,
+    "title": "The Prestige",
+    "year": 2006,
+    "genre": ["Drama", "Mystery", "Sci‑Fi"],
+    "poster": "img/prestige.jpg",
+    "description": "Två rivaliserande magiker drivs till besatthet och hämnd i jakten på den perfekta illusionen.",
+    "rating": 4.6,
+    "director": "Christopher Nolan",
+    "runtime": 130
+  },
+  {
+    "id": 5,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": ["Adventure", "Drama", "Sci‑Fi"],
+    "poster": "img/interstellar.jpg",
+    "description": "En grupp astronauter reser genom ett maskhål i rymden i hopp om att säkra mänsklighetens överlevnad.",
+    "rating": 4.8,
+    "director": "Christopher Nolan",
+    "runtime": 169
+  },
+  {
+    "id": 6,
+    "title": "Dunkirk",
+    "year": 2017,
+    "genre": ["War", "Drama", "History"],
+    "poster": "img/dunkirk.jpg",
+    "description": "Evakueringen av brittiska och allierade trupper från Dunkerque under andra världskriget.",
+    "rating": 4.3,
+    "director": "Christopher Nolan",
+    "runtime": 106
+  },
+  {
+    "id": 7,
+    "title": "Tenet",
+    "year": 2020,
+    "genre": ["Action", "Sci‑Fi", "Thriller"],
+    "poster": "img/tenet.jpg",
+    "description": "En hemlig agent manipulerar tidens flöde för att förhindra tredje världskriget.",
+    "rating": 4.8,
+    "director": "Christopher Nolan",
+    "runtime": 150
+  },
+  {
+    "id": 8,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": ["Biography", "Drama", "History"],
+    "poster": "img/oppenheimer.jpg",
+    "description": "J. Robert Oppenheimers liv och den moraliska komplexiteten kring utvecklingen av atombomben.",
+    "rating": 4.7,
+    "director": "Christopher Nolan",
+    "runtime": 180
+  }
+]
